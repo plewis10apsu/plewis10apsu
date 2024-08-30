@@ -10,13 +10,15 @@
 
 <div align="center">
  
- 🔭 I’m currently collaborating on a **Godot game project for school** with a team of three.
+ 🔭 I’m currently collaborating on a **RSVP planning software tool for school** within a team of three.
  
- 📚 I'm currently immersed in learning **Artificial Intelligence**, **Software Engineering**, **Testing and Quality Assurance**, **Algorithm Design and Analysis**, and **Computer Ethics**.
+ 📚 I'm currently immersed in learning **Programming Languages**, and **Software Design and Architecture**.
 
-💬 Ask me about **Java... or anything [here]([https://github.com/plewis10apsu/plewis10apsu/issues])**
+ 🎓 I'm currently planning for **December 2024 Fall** graduation!
 
-⚡ Fun fact **Octopuses Have Three Hearts**
+💬 Ask me about **Java... or anything [here](https://github.com/plewis10apsu/plewis10apsu/issues)**
+
+⚡ Fun fact **Dragonflies can see in all directions at once**
 
  </div>
  
