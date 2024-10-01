@@ -12,9 +12,9 @@
  
  🔭 I’m currently collaborating on a **RSVP planning software tool for school** within a team of three.
  
- 📚 I'm currently immersed in learning **Programming Languages**, and **Software Design and Architecture**.
+ 📚 I'm learning **Programming Languages**, and **Software Design and Architecture** this semester.
 
- 🎓 I'm currently planning for **December 2024 Fall** graduation!
+ 🎓 I'm looking forward to **December 2024 Fall** graduation!
 
 💬 Ask me about **Java... or anything [here](https://github.com/plewis10apsu/plewis10apsu/issues)**
 
