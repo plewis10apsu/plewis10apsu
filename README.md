@@ -4,21 +4,21 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Peggy+Lewis!;" />
 </h1>
 
-<h3 align="center">A passionate computer science student at APSU 🎓💻</h3>
+<h3 align="center">A passionate Software Engineer and APSU Graduate 🎓💻</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently collaborating on a **RSVP planning software tool for school** within a team of three.
+ 🔭 I’m currently focusing on **AI, Machine Learning, and Data Science** while refining my skills in both **frontend development** and **backend development**.
  
- 📚 I'm learning **Programming Languages**, and **Software Design and Architecture** this semester.
+ 📚 I'm learning **advanced programming techniques, data analytics, and cloud computing** to enhance my career in tech.
 
- 🎓 I'm looking forward to **December 2024 Fall** graduation!
+ 🎓 Proud APSU Graduate with a **B.S. in Computer Science (Software Engineering)** and a **Mathematics Minor**!
 
-💬 Ask me about **Java... or anything [here](https://github.com/plewis10apsu/plewis10apsu/issues)**
+💬 Ask me about **Java, Python, or anything [here](https://github.com/plewis10apsu/plewis10apsu/issues)**
 
-⚡ Fun fact **Dragonflies can see in all directions at once**
+⚡ Fun fact **The first computer "bug" was an actual moth found in a Harvard Mark II computer in 1947.**
 
  </div>
  
@@ -38,13 +38,24 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,maven,pytorch,stackoverflow" /><br>
-    <img src="https://skillicons.dev/icons?i=godot,vscode,idea,linkedin,github,discord,gmail" />
-    
+
+### **Languages**
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css" /><br>
+
+### **Frameworks & Libraries**
+<img src="https://skillicons.dev/icons?i=vue,vite,pytorch,postgresql,npm,docker" /><br>
+
+### **Tools**
+<img src="https://skillicons.dev/icons?i=idea,webstorm,vscode,git" /><br>
+
+### **Environment**
+<img src="https://skillicons.dev/icons?i=windows" />
+
 </div>
 
 <br/>
 <hr/>
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -67,11 +78,3 @@
 <br/><br/>
 
 <hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
