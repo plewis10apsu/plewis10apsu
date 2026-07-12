@@ -58,9 +58,6 @@ If you're looking for a teammate who blends strong engineering fundamentals with
 <div align=center>
   <img src="https://streak-stats.demolab.com?user=plewis10apsu&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=plewis10apsu&show_icons=true&count_private=true&theme=react&rank_icon=percentile&border_radius=10" width=390 />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plewis10apsu&layout=compact&theme=react&hide=html&langs_count=8&border_radius=10" width=325 />
 </div>
 
 ---
