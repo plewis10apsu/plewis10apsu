@@ -10,10 +10,10 @@
 
 <div align="center">
 
-🎓 Recent B.S. Computer Science graduate from Austin Peay State University  
-💻 Software Engineering Intern @ CMI2, developing tools for classified military use  
-🚀 Focused on AI, Machine Learning, and Data-Driven Applications  
-📱 Skilled in React Native, JavaFX, Unity, and cross-platform development  
+🎓 B.S. Computer Science graduate from Austin Peay State University  
+💻 Geospatial Database Engineer & Software Engineer @ Compass Point, developing automation and functionality for production.  
+🚀 Focused on 3D Visualization Products
+📱 Skilled in ArcGIS, Geospatial Analysis, GIS Data Management, Source Collection, Unity Development
 🛠 Passionate about building solutions that reduce complexity and deliver real-world impact
 
 </div>
@@ -22,7 +22,7 @@
 
 ### 🧠 About Me
 
-I'm Peggy — a passionate software engineer who thrives at the intersection of innovation, usability, and purpose. I’ve designed and deployed software in classified military enclaves, developed visual aircraft recognition tools, and transitioned mobile training platforms to the web using Unity and WebGL.
+I'm Peggy, a passionate software engineer who thrives at the intersection of innovation, usability, and purpose. I’ve designed and deployed software in classified military enclaves, developed automation tools, and enhanced 3D visualization products for our armed forces.
 
 If you're looking for a teammate who blends strong engineering fundamentals with creative problem-solving and stakeholder collaboration, let's connect!
 
